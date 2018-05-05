@@ -1,0 +1,23 @@
+body {
+	background-color: black
+}
+
+.time {
+	color: white;
+	text-align: center;
+}
+.local-time, .current-local-time, .current-local-date {
+	font-size: 5rem;
+}
+
+.local-time {
+	padding-top: 10%;
+}
+
+.current-local-date {
+	padding-bottom: 10%;
+}
+
+.beijing-time, .current-beijing-time {
+	font-size: 3rem;
+}
